@@ -1,0 +1,4 @@
+{
+  "python.linting.pylintArgs": ["--load-plugins", "pylint_flask"],
+  "python.pythonPath": "/Users/Button/.local/share/virtualenvs/wealthpark-fst3Qm1_/bin/python",
+}
